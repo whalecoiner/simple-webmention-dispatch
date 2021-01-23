@@ -1,0 +1,30 @@
+{
+  "name": "simple-webmention-dispatch",
+  "version": "1.0.0",
+  "description": "Send a webmention POST request",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^4.3.1",
+    "form-urlencoded": "^4.2.1",
+    "is_js": "^0.9.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whalecoiner/simple-webmention-dispatch.git"
+  },
+  "keywords": [
+    "indieweb",
+    "webmentions"
+  ],
+  "author": "Charlie Owen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whalecoiner/simple-webmention-dispatch/issues"
+  },
+  "homepage": "https://github.com/whalecoiner/simple-webmention-dispatch#readme"
+}
