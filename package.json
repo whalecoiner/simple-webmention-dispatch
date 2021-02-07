@@ -1,5 +1,5 @@
 {
-  "name": "simple-webmention-dispatch",
+  "name": "@whalecoiner/webmention-simple-dispatch",
   "version": "1.0.0",
   "description": "Send a webmention POST request",
   "main": "index.js",
